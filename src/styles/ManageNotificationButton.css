@@ -1,0 +1,18 @@
+.button {
+  width: 150px;
+  height: 3em;
+  border-radius: 4px;
+}
+
+.button-blue {
+  border-radius: px;
+  transition-duration: 0.4s;
+  background-color: #5D98F7;
+  border: 2px solid  #707070;
+  color: white;
+}
+
+.button-blue:hover {
+  background-color: white;
+  color: black;
+}

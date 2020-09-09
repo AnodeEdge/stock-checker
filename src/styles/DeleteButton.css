@@ -1,0 +1,18 @@
+.button {
+  width: 150px;
+  height: 3em;
+  border-radius: 4px;
+}
+
+.button-pink {
+  border-radius: px;
+  transition-duration: 0.4s;
+  background-color: #F75DAA;
+  border: 2px solid #D94040;
+  color: white;
+}
+
+.button-pink:hover {
+  background-color:white;
+  color: black;
+}
