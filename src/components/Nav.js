@@ -1,11 +1,13 @@
 import React from 'react'
-import '../styles/AppHeader.css'
+import '../styles/nav.css'
 
 function AppHeader(props) {
   return (
     <>
-    <div className="App App-header">
-      Header
+    <div className="nav">
+      <div className="nav-text">
+        Stock-Checker
+      </div>
     </div>
     </>
   )

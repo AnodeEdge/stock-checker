@@ -1,5 +1,5 @@
 import React from 'react'
-import '../styles/ManageNotificationButton.css'
+import '../styles/managenotificationbutton.css'
 
 function ManageNotificationButton(props) {
   return (

@@ -17,8 +17,18 @@
   color: #61dafb;
 }
 
-.itemlabel {
-  margin: 10px 10px 10px 10px;
-  text-align: left;
+
+.App-header1 {
+  display:flex;
+  font-size: 2em;
+  margin: 1em 0 0 4em;
 }
 
+.line {
+  height:2px;
+  border-width:0;
+  color:gray;
+  background-color:gray;
+  margin-left: 4em;
+  margin-right: 4em;
+}
