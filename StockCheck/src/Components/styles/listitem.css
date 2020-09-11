@@ -1,0 +1,21 @@
+.app-list {
+  margin: 1em 4em 4em 4em;
+}
+
+.flex-list{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
+
+.flex-text {
+  text-align: left;
+}
+
+.image {
+  border: 1px solid #dddddd;
+  width: 8em;
+  height: 8em;
+  align-content: center;
+}
+

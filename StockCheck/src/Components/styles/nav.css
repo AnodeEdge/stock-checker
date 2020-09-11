@@ -1,0 +1,11 @@
+.nav {
+  background-color: #291717;
+  border: 1px solid #707070;
+  color: #a0a0a0;
+  font-size: 1.4em;
+  display: flex
+}
+
+.nav-text{
+  margin: 0 0 0 10px;
+}
